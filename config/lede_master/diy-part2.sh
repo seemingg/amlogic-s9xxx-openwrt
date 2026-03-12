@@ -57,4 +57,4 @@ git clone https://github.com/ophub/luci-app-amlogic.git package/luci-app-amlogic
 #
 # ------------------------------- Other ends -------------------------------
 
-git clone https://github.com/riverscn/openwrt-iptvhelper.git openwrt-iptvhelper/luci-app-iptvhelper 
+# git clone https://github.com/riverscn/openwrt-iptvhelper.git openwrt-iptvhelper/luci-app-iptvhelper 

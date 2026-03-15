@@ -2848,7 +2848,7 @@ CONFIG_PACKAGE_kmod-sfp=y
 # CONFIG_PACKAGE_kmod-solos-pci is not set
 CONFIG_PACKAGE_kmod-stmmac-core=y
 CONFIG_PACKAGE_kmod-swconfig=y
-# CONFIG_PACKAGE_kmod-switch-ar8xxx is not set
+CONFIG_PACKAGE_kmod-switch-ar8xxx=y
 # CONFIG_PACKAGE_kmod-switch-ip17xx is not set
 # CONFIG_PACKAGE_kmod-switch-rtl8306 is not set
 CONFIG_PACKAGE_kmod-switch-rtl8366-smi=y
